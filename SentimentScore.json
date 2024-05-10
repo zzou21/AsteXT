@@ -1,0 +1,188 @@
+{
+    "DonutMan": [
+        {
+            "DonutMan3": [
+                0.071,
+                0.849,
+                0.079,
+                0.9805
+            ]
+        },
+        {
+            "DonutMan2": [
+                0.09,
+                0.768,
+                0.142,
+                0.9959
+            ]
+        },
+        {
+            "DonutMan1": [
+                0.075,
+                0.835,
+                0.09,
+                0.9907
+            ]
+        }
+    ],
+    "TheBridalSet": [
+        {
+            "TheBridalSet3": [
+                0.066,
+                0.823,
+                0.112,
+                0.9999
+            ]
+        },
+        {
+            "TheBridalSet2": [
+                0.088,
+                0.733,
+                0.179,
+                0.9999
+            ]
+        },
+        {
+            "TheBridalSet1": [
+                0.07,
+                0.809,
+                0.121,
+                0.9999
+            ]
+        }
+    ],
+    "Moving,Pictures": [
+        {
+            "Moving,Pictures3": [
+                0.08,
+                0.827,
+                0.093,
+                0.9958
+            ]
+        }
+    ],
+    "LosAngelesBarCrawl": [
+        {
+            "LosAngelesBarCrawl3": [
+                0.058,
+                0.858,
+                0.084,
+                0.9967
+            ]
+        }
+    ],
+    "TwoSecondsOfInspiration": [
+        {
+            "TwoSecondsOfInspiration3": [
+                0.077,
+                0.806,
+                0.117,
+                0.9963
+            ]
+        },
+        {
+            "TwoSecondsOfInspiration2": [
+                0.104,
+                0.708,
+                0.188,
+                0.997
+            ]
+        },
+        {
+            "TwoSecondsOfInspiration1": [
+                0.09,
+                0.789,
+                0.121,
+                0.9931
+            ]
+        }
+    ],
+    "MissFreckle": [
+        {
+            "MissFreckle3": [
+                0.162,
+                0.699,
+                0.138,
+                -0.9748
+            ]
+        },
+        {
+            "MissFreckle2": [
+                0.183,
+                0.577,
+                0.24,
+                0.9545
+            ]
+        },
+        {
+            "MissFreckle1": [
+                0.162,
+                0.648,
+                0.19,
+                0.9487
+            ]
+        }
+    ],
+    "LoveYouToPieces": [
+        {
+            "LoveYouToPieces3": [
+                0.06,
+                0.816,
+                0.124,
+                0.9923
+            ]
+        }
+    ],
+    "MonitorWorld": [
+        {
+            "MonitorWorld3": [
+                0.068,
+                0.85,
+                0.082,
+                0.999
+            ]
+        },
+        {
+            "MonitorWorld2": [
+                0.1,
+                0.758,
+                0.141,
+                0.9993
+            ]
+        },
+        {
+            "MonitorWorld1": [
+                0.076,
+                0.828,
+                0.096,
+                0.9995
+            ]
+        }
+    ],
+    "SmokeAndFish": [
+        {
+            "SmokeAndFish1": [
+                0.102,
+                0.796,
+                0.102,
+                -0.7757
+            ]
+        },
+        {
+            "SmokeAndFish2": [
+                0.177,
+                0.71,
+                0.113,
+                -0.9913
+            ]
+        },
+        {
+            "SmokeAndFish3": [
+                0.1,
+                0.808,
+                0.092,
+                -0.9382
+            ]
+        }
+    ]
+}
