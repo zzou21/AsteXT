@@ -4,6 +4,8 @@ import nltk
 import pprint
 import numpy
 
+# INCOMPLETE, WORK-IN-PROGRESS!!
+
 # The analyzeSIAScore class will be used to build different interpretations from the sentiment analysis scores that each story receives.
 '''TODO:
 generate dispersion graph using matplotlib

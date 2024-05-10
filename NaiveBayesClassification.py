@@ -2,6 +2,8 @@ import json
 import numpy
 import pandas
 
+# INCOMPLETE, WORK-IN-PROGRESS
+
 '''This file is used to perform Naive Bayes classification.'''
 
 dataFile = 
