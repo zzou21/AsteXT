@@ -8,6 +8,7 @@ from tkinter import filedialog
 from tkinter import messagebox
 import json
 
+# Change the dataFile destination according to the specific usage context
 dataFile = "StoryMetadata.json"
 
 def wordCounter(fileName):

@@ -4,7 +4,8 @@ from tkinter import filedialog
 from tkinter import messagebox
 import contractions
 
-dataFile = "RawStoryContent.json"
+#Change dataFile destination according to the use
+dataFile = "RawPrePost2024Joint.json"
 
 def readFile(fileName):
     with open (fileName, "r", encoding="utf-8") as file:

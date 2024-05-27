@@ -48,6 +48,8 @@ class nltkProcessing:
         return self.senIntAna.polarity_scores(story)
 
 if __name__ == "__main__":
+
+    # Change the following three file destinations according to the specific usage context
     StoryCleanedContentSaveStopwords = "StoryContentCleanedSaveStopwords.json"
     StoryCleanedContent = "StoryContentCleaned.json"
     OriginalStory = "RawStoryContent.json"

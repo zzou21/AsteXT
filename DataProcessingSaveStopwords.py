@@ -16,6 +16,7 @@ import string
 import unidecode
 #import word2number, pycontractions, gensim.downloader as api
 
+#Change dataFile destination according to the specific usage context
 dataFile = "StoryContentCleanedSaveStopwords.json"
 '''Types of data cleaning to go through:
 contraction, remove punctuation, remove stopwords, convert to lowercase, convert words to numerical numbers, stemming and lemmatization
