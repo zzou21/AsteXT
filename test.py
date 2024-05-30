@@ -1,3 +1,5 @@
+# This file is for code testing purposes.
+
 storyDataJsonPath = "publicationYearStory.json"
 with open(storyDataJsonPath, "r") as file:
     storyData = json.load(file)
