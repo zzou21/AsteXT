@@ -1,4 +1,6 @@
-# This file has two functions. "yearStory" turns  json files that store stories in the format storyname:storycontent to publicationyear:storycontent. "combineJsons" combine two JSON files -- one storytitle:storycontent and the other storytitle:publicationyear -- into publicationyear:storycontent.
+'''This file has two functions.
+"yearStory" turns  json files that store stories in the format storyname:storycontent to publicationyear:storycontent.
+"combineJsons" combine two JSON files -- one storytitle:storycontent and the other storytitle:publicationyear -- into publicationyear:storycontent.'''
 
 import json
 
