@@ -1,5 +1,10 @@
-AsteXT
+**AsteXT**
 
-// To be updated.
+Author:
+Zhihui (Jerry) Zou -- Duke University
 
-This project aims to build a classifier that will determine how the literary trends in Asian American short stories have changed in the past 30 years.
+The AsteXT project aims to build a story classifier using Natural Language Processing to identify trends in Asian American short stories. By building a model that could register a story's genre, main themes, common word choices, and publication year, this model hopes to find a shift in literary trends from 20th-century Asian American short stories to those in the 21st century, especially those originally published online.
+
+This project is created using BERT and NLTK.
+
+Ongoing project.
