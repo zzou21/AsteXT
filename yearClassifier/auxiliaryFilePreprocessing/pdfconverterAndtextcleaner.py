@@ -1,4 +1,8 @@
-# This file is part of the auxiliary file preprocessing unit. It turns a story stored in PDF into a txt file
+'''This file is part of the auxiliary file preprocessing unit. It has three functions -- "pdfToText", "cleanTxt", and "combineToParagraph."
+The first reads the content of a PDF and turns it into a txt.
+The second cleans the txt and gets rid of unneeded words (this is a very basic cleaning and does NOT substitute cleaning needed before tokenization).
+The third combines txt files into a single paragraph (this is usually only used when the paragraph spacing when transforming from PDF to txt is screwed up).
+'''
 import fitz  # PyMuPDF
 import os
 
@@ -17,7 +21,6 @@ def cleanTxt(inputFileName, wordsToRemove):
     
     for word in wordsToRemove:
         content = content.replace(word, "")
-    
     with open(inputFileName, "w", encoding="utf-8") as file:
         file.write(content)
 
