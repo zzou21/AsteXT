@@ -4,7 +4,7 @@ import torch
 from transformers import BertForSequenceClassification
 from transformers import AutoTokenizer
 
-modelPath = "yearClassifier/modelTrained"
+modelPath = "/Users/Jerry/Desktop/DH proj:reading/Asian American short story project/AsteXT models/firstYearClassifier"
 newModel = BertForSequenceClassification.from_pretrained(modelPath)
 newTokenizer = AutoTokenizer.from_pretrained(modelPath)
 newModel.eval()
