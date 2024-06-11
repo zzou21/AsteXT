@@ -1,7 +1,7 @@
 **AsteXT**
 
 Author:
-Zhihui (Jerry) Zou -- Duke University
+Zhihui (Jerry) Zou -- Duke University; *New England Review*
 
 Project time range: 2022 - now
 
