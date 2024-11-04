@@ -12,8 +12,4 @@ The AsteXT project aims to build a story classifier using Natural Language Proce
 
 ---
 
-This project is created using BERT, NLTK, and SciKit Learn.
-
----
-
 Ongoing project.
